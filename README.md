@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone
-The final project as part of IBM's Data Science Professional Certificate
+The final project as part of [IBM's Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 You can read the final presentation document [here](https://github.com/TheCanadianShield/Applied-Data-Science-Capstone/blob/main/IBM%20Applied%20Data%20Science%20Capstone%20Presentation%20Thibault%20De%20La%20Selle.pdf)
 
